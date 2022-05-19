@@ -1,4 +1,4 @@
 # CNN_AI
-#Bt AI
-#Lương Anh Tuấn
-#19146419
+# Bt AI
+# Lương Anh Tuấn
+# 19146419
